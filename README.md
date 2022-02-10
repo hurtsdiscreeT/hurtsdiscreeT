@@ -1,7 +1,7 @@
-- 👋 Hi, I’m hurtsdiscreeT
+- 👋 Hi, I’m Angelo
 - 👀 I’m interested in becoming a Magician
 - 🌱 I’m currently learning Rust lang
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate on everything!
 - 📫 Contact me @ perseusangelo@outlook.ph
 
 <!---
