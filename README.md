@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angelo
 - 👀 I’m interested in becoming a Magician
-- 🌱 I’m currently learning Rust lang
+- 🌱 I’m currently learning Rust lang and everything!
 - 💞️ I’m looking to collaborate on everything!
 - 📫 Contact me @ perseusangelo@outlook.ph
 
